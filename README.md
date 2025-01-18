@@ -20,6 +20,10 @@ Eliminate distractions and stay laser-focused on the task at hand with **FocusBo
 3. **Interact with the selected portion** of the page, while the rest is dimmed.
 4. Use the **close button** to reset or **reload the page** to start again.
 
+
+![Alt Text](screenshots/screenshot1.png)
+![Alt Text](screenshots/screenshot2.png)
+
 ---
 
 ## 🌟 Why Use FocusBox?
